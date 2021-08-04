@@ -63,8 +63,8 @@ This lesson teaches you how to work with the most common types of data text file
 * Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
  * Import the JSON file into Excel from the web
    * Click on the Excel Power Query tab and then "From Web"
-   * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/json/health/health.json'''
-     * Dataset description](https://think.cs.vt.edu/corgis/json/health/health.html)
+   * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/datasets/json/health/health.json'''
+     * Dataset description](https://think.cs.vt.edu/corgis/datasets/json/health/health.html)
    * In the dialog, enter the path and filename of the JSON file
    * Click OK
    * When the list of records appears in the editor, click transform -> to table
@@ -74,7 +74,7 @@ This lesson teaches you how to work with the most common types of data text file
 
 **Exercise: Import a JSON file into Excel - 15 min
 * Work in pairs
-* Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) using a downloaded file
+* Import the [cars.json data](https://think.cs.vt.edu/corgis/datasets/json/cars/cars.html) using a downloaded file
 * In an Excel worksheet tab, import the cars.json data using the URL of the file location on the web
 * Submit a link to theSave your spreadsheet
 
