@@ -31,13 +31,6 @@ In this lesson, you continue to prepare data by fetching and combining data from
     * You can also use range names. Change your VLOOKUP reference table_array value to a range name.
 <br>
 
-### !challenge
-
-* type: paragraph
-* id: 03e30b6b-8e09-4eaf-a9e5-60d532341d22
-* title: Fetch data with VLOOKUP
-
-##### !question
 **Exercise: fetch data from other tables - 15 min**
 * Work in pairs
 * Use the TCP-H Benchmark data set
@@ -52,28 +45,10 @@ In this lesson, you continue to prepare data by fetching and combining data from
 * Submit a GitHub link to this spreadsheet
 <br>
 
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
-
 **Code-along: use HLOOKUP to fetch data from another table - 10 min**
 * Continue using the spreadsheet from the previous code-along
 * Import the [products_horz.csv](https://drive.google.com/open?id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney) file into a new tab
 * Use HLOOKUPs to add the product name and price to each record in the purchases table
-    
-### !challenge
-
-* type: paragraph
-* id: 6f4149ae-909b-40c5-8732-768fa5bc397d
-* title: Use LOOKUPS to fetch data from tables
-
-##### !question
 
 **Exercise: use LOOKUPs to fetch data from other tables - 25 min**
 * Work in pairs
@@ -86,12 +61,3 @@ Paste link here
   * Use a LOOKUP to add the country and region to each line of the orders table
 * Submit a GitHub link to this spreadsheet
 
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
