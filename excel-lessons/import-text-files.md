@@ -74,7 +74,7 @@ This lesson teaches you how to work with the most common types of data text file
 
 **Exercise: Import a JSON file into Excel - 15 min
 * Work in pairs
-* Import the [cars.json data](https://think.cs.vt.edu/corgis/datasets/json/cars/cars.html) using a downloaded file
+* Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars) using a downloaded file
 * In an Excel worksheet tab, import the cars.json data using the URL of the file location on the web
 * Submit a link to theSave your spreadsheet
 
