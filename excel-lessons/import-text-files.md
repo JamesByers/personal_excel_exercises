@@ -64,7 +64,7 @@ This lesson teaches you how to work with the most common types of data text file
  * Import the JSON file into Excel from the web
    * Click on the Excel Power Query tab and then "From Web"
    * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/datasets/json/health/health.json'''
-     * Dataset description](https://think.cs.vt.edu/corgis/datasets/json/health/health.html)
+     * [Dataset description](https://think.cs.vt.edu/corgis/json/health/health.html)
    * In the dialog, enter the path and filename of the JSON file
    * Click OK
    * When the list of records appears in the editor, click transform -> to table
