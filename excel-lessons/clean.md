@@ -30,13 +30,6 @@ Once data analysts import data, the next step is to make it useable for analysis
 * [CLEAN](https://support.office.com/en-us/article/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41)
 <br>
 
-### !challenge
-
-* type: paragraph
-* id: 922a6ea0-cb66-4fb8-bd28-594dbe5b79d3
-* title: remove unwanted characters
-
-##### !question
 **Exercise: remove extraneous characters - 15 min**
 * Work in pairs
 * Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/file/d/16SjBuqk5gPoqVM0oDKFreXxuhOTi21jv/view?usp=sharing)
@@ -48,16 +41,6 @@ Once data analysts import data, the next step is to make it useable for analysis
   * Use the [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) function to capitalize each word 
   * Sort by the column and do a few manual corrections
   * Submit a GitHub link to your spreadsheet
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
 
 **Exercise: correct data issues in several columns - 30 min**
 * Work individually to discover a data cleaning function that you want to share with the class - 10 min
