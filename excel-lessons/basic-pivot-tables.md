@@ -56,14 +56,6 @@ One of the most important analysis techniques is determining aggregate values fo
   * Add an average price column to the VALUES pane
 <br>
 
-
-### !challenge
-
-* type: paragraph
-* id: b077b94d-e453-46f6-9ab6-270ef1386c45
-* title: Create a pivot table
-
-##### !question
 **Exercise: create a pivot table that sums - 25 min**
 * Answer the question "What dates in early fall of 2015 did people use bikes the longest?"
 * Work in pairs
@@ -91,17 +83,6 @@ One of the most important analysis techniques is determining aggregate values fo
 * Additional learning: play around with adding fields to various panes of the pivot table editor and see the changes that you make to the pivot table 
 <br>
 
-##### !end-question
-
-##### !placeholder
-
-Submit the link here
-
-##### !end-placeholder
-
-### !end-challenge
-
-
 **Code-along: improve user experience by formatting pivot tables - 20 min**
 * Continue using the spreadsheet from the previous code-along
 * Demonstrate that pivot tables don't auto update
@@ -117,14 +98,6 @@ Submit the link here
      * For an attribute in ROWS or COLUMNS, use the filter drop-down in the pivot table location
  * Show that row and column names, such a "Row Labels," can be manually changed to make it easier for the user to interpret 
 
-### !challenge
-
-* type: paragraph
-* id: 75c9e17d-5cae-4605-9518-91d8d8a4acf2
-* title: Format pivot tables
-
-##### !question
-
 **Exercise: make a pivot table more useful - 25 min**
 * Continue using the Pronto spreadsheet from the first challenge
 * Modify the pivot table by adding gender to the COLUMNS pane
@@ -135,13 +108,3 @@ Submit the link here
   * Add a filter for birthyear
   * Modify column names in the pivot table to make them easier to understand (if needed)
 * Submit a GitHub link to the spreadsheet
-
-##### !end-question
-
-##### !placeholder
-
-Submit the link here
-
-##### !end-placeholder
-
-### !end-challenge
