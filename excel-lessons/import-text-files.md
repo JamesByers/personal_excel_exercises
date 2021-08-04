@@ -44,14 +44,6 @@ This lesson teaches you how to work with the most common types of data text file
     * Note that the data didn't import into Excel successfully; this is because you can't depend on the "click on the file in a file manager" way of importing data
   * Import using Excel's Data > From Text functionality
 
-### !challenge
-
-* type: paragraph
-* id: bab86a06-eb77-4050-9937-e54a74110340
-* title: Import data text files
-
-##### !question
-
 ### Exercise: import files with different delimiters - 15 min**
 * Work in pairs
 * Import a new file using Data > From Text
@@ -62,17 +54,7 @@ This lesson teaches you how to work with the most common types of data text file
 * Import the 2015_trip_data.csv file into a tab (worksheet) in Excel
 * Import the station.csv file into a tab in Excel
 * Import the weather.csv file into a tab in Excel
-* Submit a GitHub link to the spreadsheet
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
+* Save your spreadsheet
 
 ### Code-along: import data into a JSON file - 15 min**
 * ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
@@ -89,51 +71,14 @@ Paste link here
    * Click on Save and Load to exit and populate the Excel worksheet with the data
  * Show that to read in a JSON file that local on your laptop you use exactly the same steps but with the path and filename as the URL
 
-### !challenge
-
-* type: paragraph
-* id: a01facea-487e-445a-b04f-0196965c00e4
-* title: Import a JSON File
-
-##### !question
 **Exercise: Import a JSON file into Excel - 15 min**
 * Work in pairs
 * Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) using a downloaded file
 * In an Excel worksheet tab, import the cars.json data using the URL of the file location on the web
-* Submit a link to the spreadsheet
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
-
-
-### !challenge
-
-* type: paragraph
-* id: be634953-530c-4eb7-ba8e-bd5136b0dc7a
-* title: Import an XML data File
-
-##### !question
+* Submit a link to theSave your spreadsheet
 
 ### Optional learning: import an XML file into Excel**
 * Import the orders.xml file into Excel
   * Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
   * Use Data > Get Data > From File > From XML to import into Excel
     * Note - Depending on which version of excel you have the menu navigation may be different  
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
- 
