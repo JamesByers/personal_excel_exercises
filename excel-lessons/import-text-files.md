@@ -28,12 +28,12 @@ This lesson teaches you how to work with the most common types of data text file
 
 ## In-class work
 
-### Discuss three types of text file formats for storing data - 15 min**
+### Discuss three types of text file formats for storing data - 15 min
   * Rows and column text files such as CSV and delimited files
   * JSON
   * XML
 
-### Code-along: import csv files delimited with various delimiters - 15 min**
+### Code-along: import csv files delimited with various delimiters - 15 min
   * Although many people use the names synonymously, there are differences between CSV and simpler delimited files
   * Download these files again if you don't have them available
     * [products.csv](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/products.csv)
@@ -44,7 +44,7 @@ This lesson teaches you how to work with the most common types of data text file
     * Note that the data didn't import into Excel successfully; this is because you can't depend on the "click on the file in a file manager" way of importing data
   * Import using Excel's Data > From Text functionality
 
-### Exercise: import files with different delimiters - 15 min**
+### Exercise: import files with different delimiters - 15 min
 * Work in pairs
 * Import a new file using Data > From Text
 * Download these Pronto files for use with Excel:
@@ -56,7 +56,7 @@ This lesson teaches you how to work with the most common types of data text file
 * Import the weather.csv file into a tab in Excel
 * Save your spreadsheet
 
-### Code-along: import data into a JSON file - 15 min**
+### Code-along: import data into a JSON file - 15 min
 * ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
   * Note that the page contains a selection tab to select use instructions from Excel 2013 and earlier or recent versions of Excel
 * Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
@@ -71,13 +71,13 @@ This lesson teaches you how to work with the most common types of data text file
    * Click on Save and Load to exit and populate the Excel worksheet with the data
  * Show that to read in a JSON file that local on your laptop you use exactly the same steps but with the path and filename as the URL
 
-**Exercise: Import a JSON file into Excel - 15 min**
+**Exercise: Import a JSON file into Excel - 15 min
 * Work in pairs
 * Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) using a downloaded file
 * In an Excel worksheet tab, import the cars.json data using the URL of the file location on the web
 * Submit a link to theSave your spreadsheet
 
-### Optional learning: import an XML file into Excel**
+### Optional learning: import an XML file into Excel
 * Import the orders.xml file into Excel
   * Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
   * Use Data > Get Data > From File > From XML to import into Excel
