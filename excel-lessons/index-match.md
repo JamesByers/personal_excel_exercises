@@ -25,13 +25,6 @@ In this lesson, you continue preparing data by fetching and combining data from 
 * Use INDEX and MATCH to add the customer name and city from the customer table to each row of the purchases table
 <br>
 
-### !challenge
-
-* type: paragraph
-* id: 00dde750-1ac8-4667-a591-cdd9896f62fa
-* title: Fetch data with INDEX and MATCH
-
-##### !question
 **Exercise: fetch data from other tables - 20 min**
 * Work in pairs
 * Use the TCP-H Benchmark csv files from the LOOKUPs lesson or:
@@ -46,28 +39,10 @@ In this lesson, you continue preparing data by fetching and combining data from 
 * Submit a GitHub link to this spreadsheet
 <br>
 
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
-
 **Code-along: use INDEX and MATCH to fetch data from another table - 15 min**
 * Continue using the spreadsheet from the previous code-along
 * Import the products_horz.csv file into a new tab
 * Use INDEX and MATCH to add the product name and price to each record in the purchases table
-    
-### !challenge
-
-* type: paragraph
-* id: e70eeab2-5569-46b2-9041-38bbd9fb883a
-* title: Use INDEX and MATCH to fetch data from tables
-
-##### !question
 
 **Exercise: use INDEX and MATCH to fetch data from other tables - 25 min**
 * Work in pairs
@@ -75,14 +50,3 @@ Paste link here
 * Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables
 * Use INDEX and MATCH to add the country and region of the customer to each row of the orders table
 * Submit a GitHub link to this spreadsheet
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
-
