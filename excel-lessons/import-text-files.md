@@ -38,6 +38,7 @@ This lesson teaches you how to work with the most common types of data text file
   * Download these files again if you don't have them available
     * [products.csv](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/products.csv)
     * [purchases.txt](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/purchases.txt)
+
   In a file manager (Explorer on Windows, Finder on Mac), click on the products.csv file to open it in Excel
     * Note that the data imported successfully; this is because this CSV file happens to designated the columns and data in a way that matches Excel's default import settings
   * Import the purchases.txt file by clicking on it 
