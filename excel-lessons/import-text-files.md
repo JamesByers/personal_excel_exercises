@@ -24,7 +24,7 @@ This lesson teaches you how to work with the most common types of data text file
     *  You should now see "Power Query" as one of the choices in the Excel menu bar
 
 * [Video: Adding Data to a Spreadsheet (2:18)](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet)
-* [Reading: CSV vs XML vs JSON – Which is the Best Response Data Format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/)
+* [Reading: CSV vs XML vs JSON – Which is the Best Response Data Format?](https://applerepairstation.com/csv-vs-xml-vs-json-which-is-the-best-response-data-format/)
 
 ## In-class work
 
